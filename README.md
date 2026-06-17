@@ -5,3 +5,5 @@ A reusable modal/popup component triggered by multiple buttons, with overlay and
 # Overlay and modal toggle with class manipulation
 
 # Click-outside-to-close behavior
+
+# Escape key event handler to close the modal
